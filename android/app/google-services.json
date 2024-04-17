@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543525665001",
+    "project_id": "chatapplica-e3c17",
+    "storage_bucket": "chatapplica-e3c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543525665001:android:a1e722e45079a84e691878",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoX5pGnCEqLvg74GZztLQQ8faQyTf-wHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
